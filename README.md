@@ -64,7 +64,7 @@ each building on the last to form a single, connected analytical argument:
 | 📊 **Microsoft Excel** | Pivot table analysis, summary reporting, and structured analytical workbook |
 | 📋 **Power BI** | Interactive dashboard covering all four analytical tenets with DAX measures, time intelligence, and scenario planning |
 | 📝 **Microsoft Word** | Executive presentation guide and speaker notes documentation |
-| 🖥️ **PowerPoint** | Executive presentation deck (ABS Retail Co. capstone) |
+| 🖥️ **PowerPoint** | Executive presentation deck |
 
 
   
