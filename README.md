@@ -48,7 +48,7 @@ each building on the last to form a single, connected analytical argument:
 | Attribute | Detail |
 |---|---|
 | **Dataset Name** | GlobalMart B2C Retail Transaction Dataset |
-| **Source** | Kaggle |
+| **Source** | Blossom Academy |
 | **Period Covered** | January 2021 — December 2024 |
 | **Records** | 5,000 order transactions |
 | **Columns** | 34 fields |
