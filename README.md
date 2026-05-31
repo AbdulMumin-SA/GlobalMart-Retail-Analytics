@@ -104,7 +104,78 @@ each building on the last to form a single, connected analytical argument:
 
 | Skill | How It Is Demonstrated |
 |---|---|
-| **Executive Presentation** | 12-slide PowerPoint deck with speaker notes, chart explanations, and Q&A preparation guide |
-| **Technical Documentation** | 34-column data dictionary with analytical use, tenet mapping, and Power BI quick-start guide |
 | **Stakeholder Communication** | Presentation guide written for two audiences simultaneously: technical reviewer and business decision-maker |
+
+
+## OBJECTIVES / PROBLEM STATEMENT
+
+GlobalMart is a B2C retail company with operations across six continents.
+Despite generating $2.6M in revenue over four years and recovering
+strongly in 2024 (+15.3% YoY), the business faces three unresolved
+structural problems:
+
+### Problem 1 — Revenue Growth Is Not Translating to Profit Growth
+2024 was the highest-revenue year on record ($702,533) — yet the gross
+margin *declined* to 30.86%, down from 32.49% in 2023. The business is
+growing the top line while the bottom line compresses.
+
+**The question:** What is causing margin to decline as
+revenue grows?
+
+### Problem 2 — A Quarter of All Orders Are Loss-Making
+24.5% of all 5,000 orders generated negative gross profit. This is not
+a rounding issue or a small anomaly — it represents a structural leak
+in the business model.
+
+**The question:** What is causing nearly one in four orders
+to lose money — and is it the same root cause across all categories
+and markets?
+
+### Problem 3 — Operational Inefficiency Is Compounding the Financial Damage
+An 8.62% return rate (72% above the 5% industry benchmark) and a 7.84%
+cancellation rate mean that roughly 16% of all orders never complete
+successfully — generating costs without generating retained revenue.
+
+**The question:** Are the return and cancellation problems
+connected to the discount and margin problems, or are they independent
+issues requiring separate interventions?
+
+### The Overarching Objective
+
+> Determine whether GlobalMart has a revenue problem, a cost problem,
+> a pricing problem, or a policy problem — and deliver a prioritised,
+> evidence-based action plan that distinguishes between what needs
+> to be fixed immediately and what needs to be restructured
+> strategically.
+
+
+## DATA ANALYSIS AND VISUALIZATION
+### Tenet 1 — Descriptive Analysis: What Happened?
+
+**Year-over-Year Performance**
+<img width="606" height="446" alt="image" src="https://github.com/user-attachments/assets/4f5b190a-a01d-47fe-9f0f-b11ef1901c6d" />
+
+<img width="784" height="435" alt="image" src="https://github.com/user-attachments/assets/676194fa-d84b-40a1-8779-be26c4c50c33" />
+<img width="580" height="283" alt="image" src="https://github.com/user-attachments/assets/9dbe3095-2954-48dc-a0f2-98e7e9744182" />
+
+
+**Key descriptive findings:**
+- Revenue declined two consecutive years (2022–2023) before recovering
+  strongly in 2024
+- AOV hit its lowest point in 2023 ($493) then its highest in 2024
+  ($560) — a $67 swing in a single year
+- Gross margin has never returned to its 2021 baseline of 32.32%
+- Q4 and July are consistently the highest-revenue periods across
+  all four years
+- February is the lowest-revenue month in every single year
+
+**Category Performance**
+
+| Category | Revenue Share | Gross Margin | Profile |
+|---|---|---|---|
+| Home & Living | 56% | 21.9% | High volume, low efficiency |
+| Beauty & Health | — | 53.7% | Low volume, highest efficiency |
+| Electronics | — | ~25% | Balanced — strong absolute profit |
+| Clothing & Apparel | — | ~45% | Strong margin, high return risk |
+| Books & Media | Lowest ($77K) | Lowest | Candidate for rationalisation |
 
