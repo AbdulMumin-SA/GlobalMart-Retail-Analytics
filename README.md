@@ -67,4 +67,44 @@ each building on the last to form a single, connected analytical argument:
 | 🖥️ **PowerPoint** | Executive presentation deck |
 
 
+## DATA PROCESSING
+| Step | Purpose in This Project |
+|---|---|
+|**Cleaning** | Removed duplicates, standardised date formats, resolved missing values in shipping and return fields|
+|**Enrichment** | Calculated derived fields: gross margin %, YoY growth, AOV by segment/channel, return cost estimates|
+|**Segmentation** | Grouped customers by segment (Professional, Consumer, etc.), channel, geography, and payment method|
+|**Validation** | Cross-checked order totals and revenue figures across years before visualization|
   
+
+## SKILLS DEMONSTRATED
+
+### Technical Skills
+
+| Skill | How It Is Demonstrated |
+|---|---|
+| **DAX (Power BI)** | 47 custom measures across core financials, time intelligence, diagnostic ratios, predictive modelling, and indexing |
+| **Time Intelligence DAX** | `SAMEPERIODLASTYEAR`, `DATESYTD`, `DATEADD`, `CALENDARAUTO` — full date table with marked relationships |
+| **Excel Analytical Modelling** | Pivot-based multi-tenet workbook with conditional formatting, embedded charts, and structured cross-sheet referencing |
+| **Data Modelling** | Star schema in Power BI: fact table (Dataset) + DateTable with active relationships |
+| **Statistical Analysis** | Linear trend extrapolation, CAGR calculation, correlation analysis (discount vs profit), index-based benchmarking |
+| **What-If Analysis** | Power BI numeric range parameter for interactive 2025 growth rate scenario planning |
+
+### Analytical Skills
+
+| Skill | How It Is Demonstrated |
+|---|---|
+| **Descriptive Analysis** | Revenue, profit, margin, and volume summarised across 8 dimensions (year, quarter, category, sub-category, market, continent, segment, channel) |
+| **Diagnostic Analysis** | Five sequential investigations connecting discount policy → profit destruction → return behaviour → geographic margin pressure → channel profitability |
+| **Root Cause Analysis** | Identified two independent root causes of margin compression: discount policy (addressable) and geographic shipping cost structure (structural) |
+| **Predictive Modelling** | CAGR-based revenue forecast with confidence interval, augmented by interactive scenario planning |
+| **Prescriptive Reasoning** | Six recommendations with named actions, quantified financial impact, and sequenced implementation timeline |
+| **Data Storytelling** | All four tenets structured as a single connected narrative — each tenet's finding motivates the next tenet's question |
+
+### Communication Skills
+
+| Skill | How It Is Demonstrated |
+|---|---|
+| **Executive Presentation** | 12-slide PowerPoint deck with speaker notes, chart explanations, and Q&A preparation guide |
+| **Technical Documentation** | 34-column data dictionary with analytical use, tenet mapping, and Power BI quick-start guide |
+| **Stakeholder Communication** | Presentation guide written for two audiences simultaneously: technical reviewer and business decision-maker |
+
